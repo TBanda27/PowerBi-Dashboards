@@ -2,7 +2,7 @@
 
 ## 📊 Overview
 
-This folder contains Power BI dashboards designed to provide data-driven insights and support decision-making through interactive visualizations.
+This folder contains Power BI dashboards i have designed to provide data-driven insights and support decision-making through interactive visualizations.
 
 ## 📁 Repository Structure
 ```
